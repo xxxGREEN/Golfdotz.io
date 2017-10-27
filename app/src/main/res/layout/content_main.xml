@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.xxxgreen.mvx.golfdotzio.Main2Activity"
+    tools:showIn="@layout/activity_main2">
+
+    <LinearLayout
+        android:id="@+id/headerLayout"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:paddingStart="8dp"
+            android:paddingLeft="8dp"
+            android:paddingEnd="8dp"
+            android:paddingRight="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:text="W"
+            android:textColor="#DCEDC8"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:paddingStart="8dp"
+            android:paddingLeft="8dp"
+            android:paddingEnd="8dp"
+            android:paddingRight="8dp"
+            android:layout_gravity="center_vertical"
+            android:text="Name"
+            android:textColor="#DCEDC8"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:paddingStart="16dp"
+            android:paddingLeft="16dp"
+            android:paddingEnd="8dp"
+            android:paddingRight="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:text="Sheets"
+            android:textColor="#DCEDC8"
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_below="@id/headerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+</RelativeLayout>

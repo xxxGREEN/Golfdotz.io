@@ -1,0 +1,522 @@
+{
+  "styles": [
+    {
+      "STYLE_CODE": "GD44-234",
+      "STYLE_NAME": "Lucky Clover USA",
+      "SHEETS": 227,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-233",
+      "STYLE_NAME": "USA Foursome",
+      "SHEETS": 605,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-103",
+      "STYLE_NAME": "Love USA",
+      "SHEETS": 622,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-118",
+      "STYLE_NAME": "Patriot Star",
+      "SHEETS": 110,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-117",
+      "STYLE_NAME": "Skullmania USA",
+      "SHEETS": 630,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-203",
+      "STYLE_NAME": "Bald Eagle",
+      "SHEETS": 1525,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-074",
+      "STYLE_NAME": "Fore Ladies Only",
+      "SHEETS": 1388,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-069",
+      "STYLE_NAME": "Fantastic Foursome",
+      "SHEETS": 379,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-006",
+      "STYLE_NAME": "Shamrocks",
+      "SHEETS": 1289,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-112",
+      "STYLE_NAME": "Shamrocks/Irish",
+      "SHEETS": 611,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-002",
+      "STYLE_NAME": "Lucky Clovers",
+      "SHEETS": 1969,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-048",
+      "STYLE_NAME": "Lucky Clovers/Pink",
+      "SHEETS": 189,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-147",
+      "STYLE_NAME": "Neon Clovers",
+      "SHEETS": 22,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-238",
+      "STYLE_NAME": "Majestic Butterfly Mix",
+      "SHEETS":431,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-071",
+      "STYLE_NAME": "Majestic Butterfly Yellow",
+      "SHEETS": 1134,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-223",
+      "STYLE_NAME": "Summer Daisies",
+      "SHEETS": 527,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-219",
+      "STYLE_NAME": "Groovy Peace Mixed",
+      "SHEETS": 64,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-192",
+      "STYLE_NAME": "Gator",
+      "SHEETS": 143,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-155",
+      "STYLE_NAME": "Piranahas Neon Orange",
+      "SHEETS": 0,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-261",
+      "STYLE_NAME": "Sharks",
+      "SHEETS": 339,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-228",
+      "STYLE_NAME": "Dolphin",
+      "SHEETS": 1024,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-208",
+      "STYLE_NAME": "Starfish",
+      "SHEETS": 1083,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-216",
+      "STYLE_NAME": "Hawaiian Hibiscus Mixed",
+      "SHEETS": 841,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-217",
+      "STYLE_NAME": "Hawaiian Hibiscus",
+      "SHEETS": 645,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-222",
+      "STYLE_NAME": "Hawaiian Sea Turtle Mix",
+      "SHEETS": 271,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-248",
+      "STYLE_NAME": "Palm Trees",
+      "SHEETS": 1036,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-220",
+      "STYLE_NAME": "Hawaiian Sandals",
+      "SHEETS": 940,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-194",
+      "STYLE_NAME": "Flamingo",
+      "SHEETS": 281,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-178",
+      "STYLE_NAME": "Chill Penguin",
+      "SHEETS": 1027,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-252",
+      "STYLE_NAME": "Boston Terrier",
+      "SHEETS": 1376,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-019",
+      "STYLE_NAME": "Dogz",
+      "SHEETS": 278,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-058",
+      "STYLE_NAME": "Happy Cat",
+      "SHEETS": 611,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-055",
+      "STYLE_NAME": "Panda",
+      "SHEETS": 130,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-053",
+      "STYLE_NAME": "Paw Prints",
+      "SHEETS": 640,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-239",
+      "STYLE_NAME": "Paw Print Mix",
+      "SHEETS": 1536,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-075",
+      "STYLE_NAME": "Hot Lips",
+      "SHEETS":658,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-241",
+      "STYLE_NAME": "Hootie Mix",
+      "SHEETS": 1119,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-240",
+      "STYLE_NAME": "Be Happy Mix",
+      "SHEETS":662,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-009",
+      "STYLE_NAME": "Be Happy",
+      "SHEETS": 2230,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-250",
+      "STYLE_NAME": "Emojis",
+      "SHEETS": 589,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-003",
+      "STYLE_NAME": "Poker",
+      "SHEETS": 1775,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-226",
+      "STYLE_NAME": "Solo Ace of Spades",
+      "SHEETS": 329,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-027",
+      "STYLE_NAME": "Big Money",
+      "SHEETS": 5,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-024",
+      "STYLE_NAME": "Sabbatini Dragon Red",
+      "SHEETS": 25,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-119",
+      "STYLE_NAME": "I Love Golf",
+      "SHEETS":453,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-015",
+      "STYLE_NAME": "Red Hot Chili Peppers",
+      "SHEETS": 944,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-020",
+      "STYLE_NAME": "Scorpion",
+      "SHEETS": 371,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-076",
+      "STYLE_NAME": "Black Widow",
+      "SHEETS": 517,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-013",
+      "STYLE_NAME": "Skullmania Silver",
+      "SHEETS":902,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-161",
+      "STYLE_NAME": "Skullmania Neon Orange",
+      "SHEETS": 602,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-086",
+      "STYLE_NAME": "Skullmania Gold",
+      "SHEETS":278,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-054",
+      "STYLE_NAME": "Hello Sunshine",
+      "SHEETS": 934,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-183",
+      "STYLE_NAME": "Stiletto/Red",
+      "SHEETS": 447,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-004",
+      "STYLE_NAME": "Hearts & Flowers",
+      "SHEETS":688,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-014",
+      "STYLE_NAME": "Yin & Yang",
+      "SHEETS": 602,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-190",
+      "STYLE_NAME": "Busy Bee",
+      "SHEETS": 240,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-005",
+      "STYLE_NAME": "Ladybugs",
+      "SHEETS":1094,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GDGM44-001",
+      "STYLE_NAME": "Golfmoji Guys",
+      "SHEETS": 21,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GDGM44-002",
+      "STYLE_NAME": "Golfmoji Girls",
+      "SHEETS": 576,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "MPG44-001",
+      "STYLE_NAME": "Bombs",
+      "SHEETS": 796,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-002",
+      "STYLE_NAME": "Targets",
+      "SHEETS": 736,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-104",
+      "STYLE_NAME": "Dynamite",
+      "SHEETS": 1078,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-262",
+      "STYLE_NAME": "Accuracy Putting Alignment Focus Arrows",
+      "SHEETS": 168,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-230",
+      "STYLE_NAME": "A Fine Vintage",
+      "SHEETS": 6,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-231",
+      "STYLE_NAME": "Viva Vino",
+      "SHEETS": 88,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-177",
+      "STYLE_NAME": "Cheers",
+      "SHEETS": 105,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-047",
+      "STYLE_NAME": "Pink Cocktails",
+      "SHEETS": 0,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-077",
+      "STYLE_NAME": "Pink Ribbon",
+      "SHEETS": 634,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-257",
+      "STYLE_NAME": "Purple Ribbon",
+      "SHEETS": 437,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 1
+    },
+    {
+      "STYLE_CODE": "GD44-035",
+      "STYLE_NAME": "Canadian Flag",
+      "SHEETS": 356,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 0
+    },
+    {
+      "STYLE_CODE": "MP07-001",
+      "STYLE_NAME": "Canadian Lucky Clover",
+      "SHEETS": 750,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 0
+    },
+    {
+      "STYLE_CODE": "EX07-002",
+      "STYLE_NAME": "Neon Yellow Clovers",
+      "SHEETS": 1100,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 0
+    },
+    {
+      "STYLE_CODE": "EX07-003",
+      "STYLE_NAME": "Piranahas Neon Orange",
+      "SHEETS": 68,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 0
+    },
+    {
+      "STYLE_CODE": "EX08-004",
+      "STYLE_NAME": "Poomojis",
+      "SHEETS": 547,
+      "BACKING_CARDS": 0,
+      "LOCATION": "", "IS_POP": 0, "IS_WHOLESALE": 0
+    }
+  ]
+}
